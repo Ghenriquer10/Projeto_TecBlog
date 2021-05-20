@@ -1,1 +1,1 @@
-# Projeto_TecBlog
+# Site simples usando o básico do HTML e CSS
